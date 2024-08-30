@@ -1,0 +1,5 @@
+reports:
+  "*_fastqc.html":
+    display: "FastQC HTML report"
+  "*_fastqc.zip":
+    display: "FastQC ZIP report"
